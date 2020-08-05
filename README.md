@@ -1,2 +1,2 @@
-# juhnyevics.git.io
+# juhnyevics.github.io
 Demo page
